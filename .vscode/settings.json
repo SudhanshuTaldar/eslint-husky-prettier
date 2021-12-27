@@ -1,0 +1,21 @@
+{
+    "editor.fontSize": 18,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnPaste": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+    },
+    "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript", "typescript", "typescriptreact"],
+    "github.gitAuthentication": false,
+    "window.zoomLevel": 1
+    }
